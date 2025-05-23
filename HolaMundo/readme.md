@@ -26,45 +26,63 @@ wget https://packages.microsoft.com/config/ubuntu/22.04/packages-microsoft-prod.
 
 Instala el repositorio con dpkg:
 
+```bash
 sudo dpkg -i packages-microsoft-prod.deb
+```
 
 ⚠️ Si el archivo tiene otro nombre (por ejemplo, packages-microsoft-prod.deb.1, deb.2, etc.), usa ese nombre exacto:
 
+```bash
 sudo dpkg -i packages-microsoft-prod.deb.2
+```
 
 🔄 Paso 3: Actualizar los paquetes
 
+```bash
 sudo apt update
+```
 
 💻 Paso 4: Instalar el SDK de .NET
 
 Puedes elegir una versión del SDK. Por ejemplo:
 Para instalar .NET 8 (recomendado):
 
+```bash
 sudo apt install -y dotnet-sdk-8.0
+```
 
 O si prefieres .NET 6:
 
+```bash
 sudo apt install -y dotnet-sdk-6.0
+```
 
 ✅ Paso 5: Verificar la instalación
 
+```bash
 dotnet --version
+```
 
 Deberías ver algo como:
 
+```bash
 8.0.xxxxx
+```
 
 🧪 Paso 6: Crear y ejecutar un proyecto de prueba
 
+```bash
 mkdir HolaMundo
 cd HolaMundo
 dotnet new console
 dotnet run
+```
 
 Salida esperada:
 
+```bash
 Hello World!
+```
 
 🚀 ¿Qué hacer después?
 
