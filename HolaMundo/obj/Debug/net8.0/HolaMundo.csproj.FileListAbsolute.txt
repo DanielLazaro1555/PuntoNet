@@ -1,0 +1,15 @@
+/home/daniel/Documentos/GitHub/PuntoNet/HolaMundo/bin/Debug/net8.0/HolaMundo
+/home/daniel/Documentos/GitHub/PuntoNet/HolaMundo/bin/Debug/net8.0/HolaMundo.deps.json
+/home/daniel/Documentos/GitHub/PuntoNet/HolaMundo/bin/Debug/net8.0/HolaMundo.runtimeconfig.json
+/home/daniel/Documentos/GitHub/PuntoNet/HolaMundo/bin/Debug/net8.0/HolaMundo.dll
+/home/daniel/Documentos/GitHub/PuntoNet/HolaMundo/bin/Debug/net8.0/HolaMundo.pdb
+/home/daniel/Documentos/GitHub/PuntoNet/HolaMundo/obj/Debug/net8.0/HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Documentos/GitHub/PuntoNet/HolaMundo/obj/Debug/net8.0/HolaMundo.AssemblyInfoInputs.cache
+/home/daniel/Documentos/GitHub/PuntoNet/HolaMundo/obj/Debug/net8.0/HolaMundo.AssemblyInfo.cs
+/home/daniel/Documentos/GitHub/PuntoNet/HolaMundo/obj/Debug/net8.0/HolaMundo.csproj.CoreCompileInputs.cache
+/home/daniel/Documentos/GitHub/PuntoNet/HolaMundo/obj/Debug/net8.0/HolaMundo.sourcelink.json
+/home/daniel/Documentos/GitHub/PuntoNet/HolaMundo/obj/Debug/net8.0/HolaMundo.dll
+/home/daniel/Documentos/GitHub/PuntoNet/HolaMundo/obj/Debug/net8.0/refint/HolaMundo.dll
+/home/daniel/Documentos/GitHub/PuntoNet/HolaMundo/obj/Debug/net8.0/HolaMundo.pdb
+/home/daniel/Documentos/GitHub/PuntoNet/HolaMundo/obj/Debug/net8.0/HolaMundo.genruntimeconfig.cache
+/home/daniel/Documentos/GitHub/PuntoNet/HolaMundo/obj/Debug/net8.0/ref/HolaMundo.dll
