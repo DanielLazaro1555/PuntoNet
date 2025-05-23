@@ -98,7 +98,13 @@ Una vez instalado .NET, puedes:
     Microsoft Learn - C#
     GitHub - Force.com Toolkit for .NET
 
-👤 Autor
+---
 
-Daniel Huaman
-Fecha: Mayo 2025
+## 📄 Nota de uso
+
+Este documento es de uso personal y educativo.
+
+## 👤 Autor
+
+**Daniel Huaman**  
+Mayo 2025
