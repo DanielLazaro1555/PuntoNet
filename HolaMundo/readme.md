@@ -84,14 +84,6 @@ Salida esperada:
 Hello World!
 ```
 
-🚀 ¿Qué hacer después?
-
-Una vez instalado .NET, puedes:
-
-    Probar con una calculadora básica
-    Crear una aplicación web con ASP.NET Core
-    Usar Visual Studio Code para desarrollar más cómodamente
-
 📚 Recursos útiles
 
     Microsoft .NET Download
